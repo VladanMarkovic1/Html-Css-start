@@ -1,0 +1,82 @@
+
+.header{
+background-color: rgba(12, 33, 41, 0.918);
+}
+
+.name-logo{
+display: flex;
+position: relative;
+}
+
+.logo{
+display: inline-block;
+
+}
+.logo-pic{
+width: 130px;
+margin-right: 25px;
+transform: translateX(100%);
+}
+
+.info1{
+display: inline-block;
+font-size: 30px;
+position: absolute;
+left: 500px;
+top: 20px;
+color: white;
+}
+
+.info1:hover{
+background-color: white;
+color: black;
+cursor: pointer;
+border-radius: 10px;
+}
+
+
+.info2 {
+    color: white;
+    font-size: 30px;
+position: absolute;
+right: 516px;
+top: 20px;
+}
+
+.info2:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.info3{
+    color: white;
+    font-size: 30px;
+position: absolute;
+right: 339px;
+top: 20px;
+}
+
+.info3:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.info4{
+position: absolute;
+color: white;
+font-size: 30px;
+right: 205px;
+top: 20px;
+
+}
+
+.info4:hover{
+background-color: white;
+color: black;
+cursor: pointer;
+border-radius: 10px;
+}

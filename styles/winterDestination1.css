@@ -1,0 +1,148 @@
+.title{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 140px;
+}
+
+
+
+
+.container {
+    display: flex;
+    justify-content: space-around; /* Adjust to space items evenly */
+    margin: 50px; /* Add margin to container */
+}
+
+.section {
+    width: 45%; /* Adjust width of each section */
+    padding: 20px;
+    
+    border:  2px solid #101650;
+   box-sizing: border-box;
+   height: 1200px;
+}
+
+.section h2 {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+
+.destination-name{
+font-size: 28px;
+font-weight: bold;
+color: rgba(12, 33, 41, 0.918);
+position: absolute;
+left: 304px;
+margin-top: 20px;
+}
+
+.image-description{
+display: flex;
+}
+
+
+
+.description{
+    margin-top: 80px;
+    margin-bottom: 6px;
+flex: 1;
+color: azure;
+font-size: 17px;
+}
+
+.description1, .description2{
+margin-top: 6px;
+margin-bottom: 7px;
+color: azure;
+font-size: 17px;
+}
+
+
+.description3{
+    font-size: 17px;
+margin-top: 7px;
+margin-bottom:7px ;
+color: azure;
+}
+
+.description4{
+    font-size: 17px;
+    margin-top: 7px;
+    margin-bottom:7px ;
+    color: azure;
+}
+
+.description5{
+    font-size: 17px;
+    margin-top: 7px;
+    margin-bottom:7px ;
+    color: azure;
+}
+
+.description6{
+     font-size: 17px;
+margin-top: 7px;
+color: azure;
+}
+
+.price{
+margin-top: 4px;
+margin-bottom: 6px;
+}
+
+.hotel{
+margin-top: 6px;
+}
+
+.informations{
+position: absolute;
+top: 757px;
+left: 85px;
+}
+.price, .hotel{
+    font-size: 20px;
+    color: rgba(3, 22, 29, 0.918);
+    }
+
+.zermatt{
+transform: translate(-15px,-10px);
+height: 180px;
+border-radius: 30px;
+margin-top: 90px;
+position: relative;
+display: inline-block;
+}
+
+.trip-details{
+    top: 478px;
+    left: 7px;
+    position: absolute;
+    flex: 1;
+    padding-left: 259px;
+    }
+
+.sign-up{
+position: absolute;
+top: 844px;
+left: 271px;
+}
+
+.sign-up-button{
+    width: 170px;
+    height: 45px;
+font-size: 20px;
+border-radius: 15px;
+background-color: rgba(3, 22, 29, 0.918);
+color: white;
+border: 0;
+}
+
+.sign-up-button:hover {
+background-color: white;
+color: black;
+cursor: pointer;
+}
+

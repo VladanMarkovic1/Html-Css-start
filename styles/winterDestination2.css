@@ -1,0 +1,64 @@
+
+.destination-name2{
+    font-size: 28px;
+    font-weight: bold;
+    color: rgba(12, 33, 41, 0.918);
+    position: absolute;
+    left: 304px;
+    margin-top: 615px;
+    }
+
+    .image-desc{
+position: relative;
+    }
+
+    .Hallstatt{
+position: absolute;
+width: 170px;
+height: 180px;
+top: 680px;
+left: -590px;
+border-radius: 30px;
+    }
+
+.trip-details2{
+position: absolute;
+top: 610px;
+left: -408px;
+}
+
+.informations2{
+position: absolute;
+top: 875px;
+left: -588px;
+}
+
+.sign-up2{
+    text-align: center;
+    position: absolute;
+    left: 273px;
+    top: 1340px;
+}
+
+.more-trips{
+position: absolute;
+top: 1510px;
+left: 485px;
+
+}
+
+.more-trips-button{
+    height: 50px;
+    width: 130px;
+    font-size: 17px;
+    background-color: rgba(3, 22, 29, 0.918);
+    color: white;
+    border: none;
+    border-radius: 25px;
+}
+
+.more-trips-button:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}

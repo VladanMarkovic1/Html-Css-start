@@ -1,0 +1,52 @@
+.summer-trip2{
+    position: relative;
+}
+
+.destination-name4{
+position: absolute;
+top: 241px;
+left: 195px;
+font-size: 28px;
+font-weight: bold;
+color: rgba(12, 33, 41, 0.918);
+}
+
+.mauritius{
+height: 180px;
+width: 170px;
+border-radius: 30px;
+position: absolute;
+top: 307px;
+left: -13px;
+}
+
+.trip-details4{
+position: absolute;
+top: 299px;
+left: 173px;
+}
+
+.p, .p1, .p2, .p3, .p4, .p5, .p6{
+    margin-top: 7px;
+margin-bottom: 7px;
+color: azure;
+font-size: 17px;
+}
+
+.informations4{
+position: absolute;
+top: 504px;
+left: -13px;
+}
+
+.sign-up4{
+position: absolute;
+top: 591px;
+left: 172px;
+}
+
+.more-trips2{
+position: absolute;
+top: 1510px;
+left: 1120px;
+}

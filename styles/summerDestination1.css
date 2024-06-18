@@ -1,0 +1,51 @@
+.summer-trip1{
+position: relative;
+display: flex;
+}
+
+.destination-name3{
+position: absolute;
+top: 20px;
+right: 205px;
+font-size: 28px;
+font-weight: bold;
+color: rgba(12, 33, 41, 0.918);
+}
+
+.havana{
+height: 180px;
+width: 170px;
+margin-top: 83px;
+margin-left: -14px;
+border-radius: 30px;
+display: inline-block;
+}
+
+
+
+.trip-details3{
+position: absolute;
+top: 75px;
+right: 10px;
+}
+
+.t1, .t2, .t3, .t4, .t5, .t6, .t7{
+    margin-top: 7px;
+margin-bottom: 7px;
+color: azure;
+font-size: 17px;
+}
+
+.informations3{
+position: absolute;
+width: 367px;
+height: 76px;
+left: -15px;
+top: 275px;
+}
+
+.sign-up3{
+    position: absolute;
+top: 360px;
+left: 172px;
+}
