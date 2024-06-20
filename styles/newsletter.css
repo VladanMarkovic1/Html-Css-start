@@ -1,0 +1,41 @@
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+.newsletter {
+    margin-top: -20px; /* Adjust margin-top as needed */
+    width: 550px;
+    height: 130px;
+    text-align: center;
+    border-radius: 30px;
+    background-color: rgb(8, 26, 77);
+    color: azure; /* Text color for all text inside .newsletter */
+    padding: 20px; /* Add padding inside .newsletter */
+}
+
+.info-text {
+    font-size: 25px;
+    padding: 5px; /* Adjust padding for .info-text */
+}
+
+.textbox {
+    width: 330px; /* Adjust width of .textbox */
+    padding: 8px;
+    font-size: 16px; /* Adjust font size for .textbox */
+    border: 1px solid #ccc; /* Optional border */
+    border-radius: 4px; /* Optional border radius */
+}
+
+.label {
+    font-size: 18px;
+}
+
+/* Optional: Media query for responsiveness */
+@media (max-width: 600px) {
+    .newsletter {
+        width: 90%; /* Adjust width for smaller screens */
+    }
+}

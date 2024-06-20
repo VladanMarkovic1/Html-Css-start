@@ -1,0 +1,41 @@
+.contact-us{
+position: relative;
+}
+
+.contact-place{
+width: 400px;
+height: 380px;
+background-color: rgb(15, 15, 75);
+border-radius: 40px;
+position: absolute;
+;
+text-align:center ;
+top: 130px;
+left: 670px
+
+}
+
+.contact-message{
+font-size: 25px;
+color: azure;
+}
+
+.input{
+    position: absolute;
+    top: 60px;
+    left: 70px;
+    
+}
+
+.contact-textbox{
+display: block;
+margin-top: 40px;
+width: 255px;
+height: 30px;
+}
+
+.batonga{
+position: absolute ;
+top: 118px;
+left: 190px;
+}
